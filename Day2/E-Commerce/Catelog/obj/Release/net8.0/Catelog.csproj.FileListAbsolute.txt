@@ -1,0 +1,11 @@
+F:\MS_DOTNET\Day2\E-Commerce\Catelog\bin\Release\net8.0\Catelog.deps.json
+F:\MS_DOTNET\Day2\E-Commerce\Catelog\bin\Release\net8.0\Catelog.dll
+F:\MS_DOTNET\Day2\E-Commerce\Catelog\bin\Release\net8.0\Catelog.pdb
+F:\MS_DOTNET\Day2\E-Commerce\Catelog\obj\Release\net8.0\Catelog.GeneratedMSBuildEditorConfig.editorconfig
+F:\MS_DOTNET\Day2\E-Commerce\Catelog\obj\Release\net8.0\Catelog.AssemblyInfoInputs.cache
+F:\MS_DOTNET\Day2\E-Commerce\Catelog\obj\Release\net8.0\Catelog.AssemblyInfo.cs
+F:\MS_DOTNET\Day2\E-Commerce\Catelog\obj\Release\net8.0\Catelog.csproj.CoreCompileInputs.cache
+F:\MS_DOTNET\Day2\E-Commerce\Catelog\obj\Release\net8.0\Catelog.dll
+F:\MS_DOTNET\Day2\E-Commerce\Catelog\obj\Release\net8.0\refint\Catelog.dll
+F:\MS_DOTNET\Day2\E-Commerce\Catelog\obj\Release\net8.0\Catelog.pdb
+F:\MS_DOTNET\Day2\E-Commerce\Catelog\obj\Release\net8.0\ref\Catelog.dll

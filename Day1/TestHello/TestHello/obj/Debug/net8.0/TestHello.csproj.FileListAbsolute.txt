@@ -1,0 +1,14 @@
+F:\MS_DOTNET\Day1\TestHello\TestHello\obj\Debug\net8.0\TestHello.GeneratedMSBuildEditorConfig.editorconfig
+F:\MS_DOTNET\Day1\TestHello\TestHello\obj\Debug\net8.0\TestHello.AssemblyInfoInputs.cache
+F:\MS_DOTNET\Day1\TestHello\TestHello\obj\Debug\net8.0\TestHello.AssemblyInfo.cs
+F:\MS_DOTNET\Day1\TestHello\TestHello\obj\Debug\net8.0\TestHello.csproj.CoreCompileInputs.cache
+F:\MS_DOTNET\Day1\TestHello\TestHello\bin\Debug\net8.0\TestHello.exe
+F:\MS_DOTNET\Day1\TestHello\TestHello\bin\Debug\net8.0\TestHello.deps.json
+F:\MS_DOTNET\Day1\TestHello\TestHello\bin\Debug\net8.0\TestHello.runtimeconfig.json
+F:\MS_DOTNET\Day1\TestHello\TestHello\bin\Debug\net8.0\TestHello.dll
+F:\MS_DOTNET\Day1\TestHello\TestHello\bin\Debug\net8.0\TestHello.pdb
+F:\MS_DOTNET\Day1\TestHello\TestHello\obj\Debug\net8.0\TestHello.dll
+F:\MS_DOTNET\Day1\TestHello\TestHello\obj\Debug\net8.0\refint\TestHello.dll
+F:\MS_DOTNET\Day1\TestHello\TestHello\obj\Debug\net8.0\TestHello.pdb
+F:\MS_DOTNET\Day1\TestHello\TestHello\obj\Debug\net8.0\TestHello.genruntimeconfig.cache
+F:\MS_DOTNET\Day1\TestHello\TestHello\obj\Debug\net8.0\ref\TestHello.dll

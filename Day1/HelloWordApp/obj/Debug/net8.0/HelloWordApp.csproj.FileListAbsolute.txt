@@ -1,0 +1,14 @@
+F:\dotnet\HelloWordApp\bin\Debug\net8.0\HelloWordApp.exe
+F:\dotnet\HelloWordApp\bin\Debug\net8.0\HelloWordApp.deps.json
+F:\dotnet\HelloWordApp\bin\Debug\net8.0\HelloWordApp.runtimeconfig.json
+F:\dotnet\HelloWordApp\bin\Debug\net8.0\HelloWordApp.dll
+F:\dotnet\HelloWordApp\bin\Debug\net8.0\HelloWordApp.pdb
+F:\dotnet\HelloWordApp\obj\Debug\net8.0\HelloWordApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotnet\HelloWordApp\obj\Debug\net8.0\HelloWordApp.AssemblyInfoInputs.cache
+F:\dotnet\HelloWordApp\obj\Debug\net8.0\HelloWordApp.AssemblyInfo.cs
+F:\dotnet\HelloWordApp\obj\Debug\net8.0\HelloWordApp.csproj.CoreCompileInputs.cache
+F:\dotnet\HelloWordApp\obj\Debug\net8.0\HelloWordApp.dll
+F:\dotnet\HelloWordApp\obj\Debug\net8.0\refint\HelloWordApp.dll
+F:\dotnet\HelloWordApp\obj\Debug\net8.0\HelloWordApp.pdb
+F:\dotnet\HelloWordApp\obj\Debug\net8.0\HelloWordApp.genruntimeconfig.cache
+F:\dotnet\HelloWordApp\obj\Debug\net8.0\ref\HelloWordApp.dll

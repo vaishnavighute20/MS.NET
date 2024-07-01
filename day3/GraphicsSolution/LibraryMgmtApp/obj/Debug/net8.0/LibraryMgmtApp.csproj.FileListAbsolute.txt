@@ -1,0 +1,14 @@
+E:\MsDotnet_218\day3\GraphicsSolution\LibraryMgmtApp\bin\Debug\net8.0\LibraryMgmtApp.exe
+E:\MsDotnet_218\day3\GraphicsSolution\LibraryMgmtApp\bin\Debug\net8.0\LibraryMgmtApp.deps.json
+E:\MsDotnet_218\day3\GraphicsSolution\LibraryMgmtApp\bin\Debug\net8.0\LibraryMgmtApp.runtimeconfig.json
+E:\MsDotnet_218\day3\GraphicsSolution\LibraryMgmtApp\bin\Debug\net8.0\LibraryMgmtApp.dll
+E:\MsDotnet_218\day3\GraphicsSolution\LibraryMgmtApp\bin\Debug\net8.0\LibraryMgmtApp.pdb
+E:\MsDotnet_218\day3\GraphicsSolution\LibraryMgmtApp\obj\Debug\net8.0\LibraryMgmtApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\MsDotnet_218\day3\GraphicsSolution\LibraryMgmtApp\obj\Debug\net8.0\LibraryMgmtApp.AssemblyInfoInputs.cache
+E:\MsDotnet_218\day3\GraphicsSolution\LibraryMgmtApp\obj\Debug\net8.0\LibraryMgmtApp.AssemblyInfo.cs
+E:\MsDotnet_218\day3\GraphicsSolution\LibraryMgmtApp\obj\Debug\net8.0\LibraryMgmtApp.csproj.CoreCompileInputs.cache
+E:\MsDotnet_218\day3\GraphicsSolution\LibraryMgmtApp\obj\Debug\net8.0\LibraryMgmtApp.dll
+E:\MsDotnet_218\day3\GraphicsSolution\LibraryMgmtApp\obj\Debug\net8.0\refint\LibraryMgmtApp.dll
+E:\MsDotnet_218\day3\GraphicsSolution\LibraryMgmtApp\obj\Debug\net8.0\LibraryMgmtApp.pdb
+E:\MsDotnet_218\day3\GraphicsSolution\LibraryMgmtApp\obj\Debug\net8.0\LibraryMgmtApp.genruntimeconfig.cache
+E:\MsDotnet_218\day3\GraphicsSolution\LibraryMgmtApp\obj\Debug\net8.0\ref\LibraryMgmtApp.dll

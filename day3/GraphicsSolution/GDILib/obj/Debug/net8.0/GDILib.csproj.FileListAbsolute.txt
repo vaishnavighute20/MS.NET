@@ -1,0 +1,11 @@
+E:\MsDotnet_218\day3\GraphicsSolution\GDILib\bin\Debug\net8.0\GDILib.deps.json
+E:\MsDotnet_218\day3\GraphicsSolution\GDILib\bin\Debug\net8.0\GDILib.dll
+E:\MsDotnet_218\day3\GraphicsSolution\GDILib\bin\Debug\net8.0\GDILib.pdb
+E:\MsDotnet_218\day3\GraphicsSolution\GDILib\obj\Debug\net8.0\GDILib.GeneratedMSBuildEditorConfig.editorconfig
+E:\MsDotnet_218\day3\GraphicsSolution\GDILib\obj\Debug\net8.0\GDILib.AssemblyInfoInputs.cache
+E:\MsDotnet_218\day3\GraphicsSolution\GDILib\obj\Debug\net8.0\GDILib.AssemblyInfo.cs
+E:\MsDotnet_218\day3\GraphicsSolution\GDILib\obj\Debug\net8.0\GDILib.csproj.CoreCompileInputs.cache
+E:\MsDotnet_218\day3\GraphicsSolution\GDILib\obj\Debug\net8.0\GDILib.dll
+E:\MsDotnet_218\day3\GraphicsSolution\GDILib\obj\Debug\net8.0\refint\GDILib.dll
+E:\MsDotnet_218\day3\GraphicsSolution\GDILib\obj\Debug\net8.0\GDILib.pdb
+E:\MsDotnet_218\day3\GraphicsSolution\GDILib\obj\Debug\net8.0\ref\GDILib.dll

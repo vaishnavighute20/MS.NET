@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MS_DOTNET\\StudentSolutions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|f:\\ms_dotnet\\studentsolutions\\studentmgmtsystem\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|f:\\ms_dotnet\\studentsolutions\\studentmgmtsystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|f:\\ms_dotnet\\studentsolutions\\studentmgmtsystem\\repositories\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\repositories\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|f:\\ms_dotnet\\studentsolutions\\studentmgmtsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|f:\\ms_dotnet\\studentsolutions\\studentmgmtsystem\\repositories\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\repositories\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|f:\\ms_dotnet\\studentsolutions\\studentmgmtsystem\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|f:\\ms_dotnet\\studentsolutions\\studentmgmtsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|f:\\ms_dotnet\\studentsolutions\\studentmgmtsystem\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|f:\\ms_dotnet\\studentsolutions\\studentmgmtsystem\\studentmgmtsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\studentmgmtsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|f:\\ms_dotnet\\studentsolutions\\studentmgmtsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08528906-CC98-46DE-9A72-0ED13A034622}|StudentMgmtSystem\\StudentMgmtSystem.csproj|solutionrelative:studentmgmtsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentMgmtSystem\\Entities\\Student.cs",
+              "ToolTip": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentMgmtSystem\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:28:34.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\Repositories\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "StudentMgmtSystem\\Repositories\\StudentRepo.cs",
+              "ToolTip": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\Repositories\\StudentRepo.cs",
+              "RelativeToolTip": "StudentMgmtSystem\\Repositories\\StudentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:22:32.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentMgmtSystem\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentMgmtSystem\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:19:57.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IstudentRepo.cs",
+              "DocumentMoniker": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\Repositories\\IstudentRepo.cs",
+              "RelativeDocumentMoniker": "StudentMgmtSystem\\Repositories\\IstudentRepo.cs",
+              "ToolTip": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\Repositories\\IstudentRepo.cs",
+              "RelativeToolTip": "StudentMgmtSystem\\Repositories\\IstudentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:27:47.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentMgmtSystem\\Services\\StudentService.cs",
+              "ToolTip": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentMgmtSystem\\Services\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:29:55.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentMgmtSystem\\Services\\IStudentService.cs",
+              "ToolTip": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudentMgmtSystem\\Services\\IStudentService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:28:39.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentMgmtSystem\\appsettings.json",
+              "ToolTip": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\appsettings.json",
+              "RelativeToolTip": "StudentMgmtSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T19:49:03.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "StudentMgmtSystem\\WeatherForecast.cs",
+              "ToolTip": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\WeatherForecast.cs",
+              "RelativeToolTip": "StudentMgmtSystem\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:49:00.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentMgmtSystem.http",
+              "DocumentMoniker": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\StudentMgmtSystem.http",
+              "RelativeDocumentMoniker": "StudentMgmtSystem\\StudentMgmtSystem.http",
+              "ToolTip": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\StudentMgmtSystem.http",
+              "RelativeToolTip": "StudentMgmtSystem\\StudentMgmtSystem.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-08T19:48:59.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\Program.cs",
+              "RelativeDocumentMoniker": "StudentMgmtSystem\\Program.cs",
+              "ToolTip": "F:\\MS_DOTNET\\StudentSolutions\\StudentMgmtSystem\\Program.cs",
+              "RelativeToolTip": "StudentMgmtSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:41:26.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
